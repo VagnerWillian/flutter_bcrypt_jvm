@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-   namespace "com.bcrypt.flutter"
+   namespace "be.appmire.flutter_bcrypt"
     compileSdkVersion 31
 
     sourceSets {
